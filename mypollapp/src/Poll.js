@@ -10,7 +10,7 @@ export default function Poll() {
           <label >{"Adjust Number of Options"}</label><br/>
           <input type="button" className="btn btn-primary" value="+"/>
           <input type="button" className="btn btn-danger" value="-"/>
-          3<input type="button" className="btn btn-success pull-right" value="Create Poll"/>
+          <input type="button" className="btn btn-success pull-right" value="Create Poll"/>
         </form>
       </div>
     )
